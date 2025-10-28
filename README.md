@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SmNw8oFb)
 # 중간고사 시험 안내
 
 `hansan.c` 파일을 만들 때, 우리가 사용할 수 있는 모든 비트 패턴을 사용하지 않았습니다. 7번째(마지막) 비트는 사용되지 않았습니다.
